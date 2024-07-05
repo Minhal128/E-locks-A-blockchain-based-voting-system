@@ -1,7 +1,7 @@
 <h1 align="center" id="title">E-LOCKS: A Blockchain Based Voting System 🧊⫘🧊</h1>
 
 
-<p align="center"><img src="https://socialify.git.ci/Minhal128/phoenix118/image?description=1&descriptionEditable=I%27m%20Phoenix%20%20meticulously%20crafted%20by%20Minhaal%20Rizvi.%20A%20personal%20Assistant&font=Raleway&forks=1&language=1&logo=https%3A%2F%2Falfabetizaciondigital.redem.org%2Fwp-content%2Fuploads%2F2017%2F08%2Frobot2-scaled.jpg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Lighthttps://socialify.git.ci/Minhal128/E-locks-A-blockchain-based-voting-system/image?font=Bitter&forks=1&language=1&logo=https%3A%2F%2Fwww.antiersolutions.com%2Fwp-content%2Fuploads%2F2023%2F04%2FGroup-83351.png&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light"></p>
+<p align="center"><img src="https://socialify.git.ci/Minhal128/E-locks-A-blockchain-based-voting-system/image?font=Bitter&forks=1&language=1&logo=https%3A%2F%2Fwww.antiersolutions.com%2Fwp-content%2Fuploads%2F2023%2F04%2FGroup-83351.png&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light"></p>
 
 <p>
 I have designed this program for myself and for others,it is made in the C language .It's special feature is that I have developed a python module in it,and the main thing is that about this program is whenever I feel that something is taking time like when I open Google chrome or any other app so it's take time to open ,or when I want to open a website it takes time to search for it.So,to save that time I have developed this program.For example If I write 'Open NED website' it will directly open the website for me.<p/> 
