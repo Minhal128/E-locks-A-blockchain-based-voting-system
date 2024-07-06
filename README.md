@@ -8,7 +8,7 @@ I have developed a C++ application integrating facial recognition with a blockch
 
 
 <h2>🔎 Project Preview</h2>
-<p>Note: The camera resolution is not optimal."</p>
+<p>Note: The camera resolution is not optimal.</p>
 
 <img src="https://imgur.com/9fug4qX.jpg" alt="Image Description">
 
