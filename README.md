@@ -4,39 +4,30 @@
 <p align="center"><img src="https://socialify.git.ci/Minhal128/E-locks-A-blockchain-based-voting-system/image?font=Bitter&forks=1&language=1&logo=https%3A%2F%2Fwww.antiersolutions.com%2Fwp-content%2Fuploads%2F2023%2F04%2FGroup-83351.png&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light"></p>
 
 <p>
-I have designed this program for myself and for others,it is made in the C language .It's special feature is that I have developed a python module in it,and the main thing is that about this program is whenever I feel that something is taking time like when I open Google chrome or any other app so it's take time to open ,or when I want to open a website it takes time to search for it.So,to save that time I have developed this program.For example If I write 'Open NED website' it will directly open the website for me.<p/> 
+I have developed a C++ application integrating facial recognition with a blockchain-based voting system, utilizing OpenCV for real-time face detection and recognition. The program allows users to register their details, including name, age, CNIC, and political party, which are securely encrypted and stored. It employs a custom SimpleEncryption class for data encryption and blockchain technology to create tamper-proof logs of user interactions. Users are prompted to enter their details interactively, and the application saves captured images and encrypted data in specified paths. This system ensures data privacy, transparency, and security, making it a robust solution for secure voting and user verification. Contributions to enhance its features and functionality are welcome.<p/> 
 
 
 <h2>🔎 Project Preview</h2>
 
 
-<img src="https://imgur.com/OScO40q.jpg" alt="Image Description">
+<img src="https://imgur.com/9fug4qX.jpg" alt="Image Description">
 
 <h1 align="center" id="title">Disclaimer</h1>
-<p>This program, designed and developed by Syed Muhammad Minhal Rizvi , aims to enhance efficiency and streamline tasks by providing quick access to frequently used applications and websites. It incorporates a combination of C language and a custom Python module to deliver its functionality.
-
-It's important to note that while the program strives to optimize time by automating tasks such as opening applications or websites, its effectiveness may vary depending on individual system configurations, network conditions, and other external factors. 
-
-Users are advised to exercise caution and use this program responsibly. The program operates by executing commands based on user input, and while efforts have been made to ensure its reliability and security, unforeseen errors or glitches may occur. 
-
-Additionally, the program relies on specific commands or keywords to trigger actions. Users should familiarize themselves with these commands to maximize its utility.
-
-It's imperative to recognize that this program is provided as-is, without any warranties or guarantees of its suitability for any particular purpose. The developer shall not be held liable for any damages, losses, or inconveniences arising from the use or misuse of this program.
-
-By using this program, users acknowledge and accept the inherent risks associated with software usage, and agree to use it responsibly and in accordance with applicable laws and regulations.</p>
+<p>This C++ program, designed and developed by Syed Muhammad Minhal Rizvi, enhances efficiency by providing quick access to frequently used applications and websites through facial recognition, encryption, and blockchain concepts using OpenCV. The program captures live video, detects faces, and allows users to input details for each detected face, which are then encrypted and saved. It employs XOR-based encryption for user data, decrypts it for display, and logs entries with block numbers, hashes, and timestamps. While efforts have been made to ensure reliability and security, users are advised to use the program responsibly and acknowledge its provided as-is without guarantees. The program operates based on user commands, automating tasks to optimize time, though effectiveness may vary based on system configurations and external factors.</p>
 <h2>🧐 Features</h2>
 
-Our personal assistant project "PHOENIX" will try to do some action of the behavior of popular Python-based assistants like Siri or Alexa. It will be capable of performing tasks such as:
+Our project "E-LOCKS: A Blockchain Based Voting System" includes features such as:
 <ul>
-  <li>Responding to user queries on jobs</li>
-  <li>Providing Surah's on User Mood</li>
-  <li>Setting Text To speech (TTS) feature</li>
-  <li>Generate Random Quotes, facts and Jokes on every login</li>
-  <li>Managing To-Do Events & reminders</li>
-  <li>Setting to open NED website</li>
-  <li>Providing Today's Horoscope</li>
-  <li>Managing to Open Social Media Platform</li>
-  <li>Manage to download BCIT timetable</li>
+  <li>Facial recognition for user identification</li>
+  <li>Encryption of user data using a simple XOR encryption algorithm</li>
+  <li>Decryption of user data and saving decrypted data to a specified path</li>
+  <li>Capturing and storing images of detected faces</li>
+  <li>Managing user details including name, age, CNIC, and political party affiliation</li>
+  <li>Storing encrypted user data in a database</li>
+  <li>Displaying block details including block hash and timestamp</li>
+  <li>Real-time video capture and face detection using OpenCV</li>
+  <li>Providing an interactive console for user input and data entry</li>
+  <li>Implementing a blockchain mechanism for voting integrity</li>
 </ul>
 <img src="https://github.com/Minhal128/phoenix118/assets/154814405/682efaaa-9feb-4d03-87ec-00bfd473a16a" alt="PHOENIX Project Features">
 
@@ -46,8 +37,10 @@ Our personal assistant project "PHOENIX" will try to do some action of the behav
 <p>1. Clone the repository</p>
 
 ```bash
-    git clone https://github.com/Minhal128/phoenix118.git
+    git clone https://github.com/Minhal128/E-locks-A-blockchain-based-voting-system.git
 ```
+<p>2. Set the path in Visual studio for OpenCV </p>
+here is the way that how I setup the OpenCV in visual studio 
 
 <p>2. Install & Run C Language modules</p>
 
