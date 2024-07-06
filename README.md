@@ -123,7 +123,7 @@ to implement this on Blockchain</li>
 </ul>
 <p>This is our team contribution. A significant aspect is that, in our team, we have two cybersecurity enthusiasts and a very special member who is blind but can see dreams better than anyone else ❤ </p>
 
-<img src ="https://imgur.com/CXSdkYf.png">
+<img src ="https://imgur.com/a3lvUht.png">
 
 <h2>⚠️Limitations</h2>
 <li>Simple Encryption</li>
