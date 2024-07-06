@@ -132,7 +132,7 @@ to implement this on Blockchain</li>
 <li>Difficulty Scaling Issues.</li>
 
 <h2>🔮Future Enhancements</h2>
-<li>Simple Encryption</li>
+<li>Advance Encryption</li>
 <li>Eyes Identification</li>
 <li>Database Integration</li>
 <li>Will Use Biometric Machine</li>
