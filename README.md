@@ -101,13 +101,44 @@ The provided C++ code implements a facial recognition and voting system prototyp
 
 
 <img src ="https://rejolut.com/wp-content/uploads/2022/02/voting7.png">
-<h2>Limitations</h2>
-<li>No speech Recogination.</li>
-<li> It might have errors.</li>
-<li>No responding API mechanism</li>
+<h2>🤝Team Contribution</h2>
+<h3>Minhal Rizvi</h3> 
+<ul>
+  <li>Implemented face detection and real-time video capture functionalities, UML diagram. </li>
+</ul>
+<h3>Mesum Raza</h3> 
+<ul>
+  <li>Developed the user data entry and encryption/decryption logic & block details and
+documented the project. </li>
+</ul>
+<h3>Mufaddal Huzaifa</h3> 
+<ul>
+  <li>Integrated the system and handled the storage of user data and did backend database
+with filing </li>
+</ul>
+<h3>Muhammad Sameed</h3> 
+<ul>
+  <li>Created the OpenCV functionality code for the frontalface_cascade.xml and the idea
+to implement this on Blockchain</li>
+</ul>
+<p>This is our team contribution. A significant aspect is that, in our team, we have two cybersecurity enthusiasts and a very special member who is blind but can see dreams better than anyone else ❤ </p>
+
+<img src ="https://imgur.com/CXSdkYf.png">
+
+<h2>⚠️Limitations</h2>
+<li>Simple Encryption</li>
+<li>Face Recognition</li>
+<li>No Passkey locker</li>
 <li>Difficulty Scaling Issues.</li>
 
+<h2>🔮Future Enhancements</h2>
+<li>Simple Encryption</li>
+<li>Eyes Identification</li>
+<li>Database Integration</li>
+<li>Will Use Biometric Machine</li>
+<li>GUI Integration</li>
 <p>
-<h2>💖Hope you Like my work!</h2>
+  
+<h2>💖Hope you Like our work!</h2>
 
 This project needs a ⭐ from you. Don't forget to leave a star ⭐
