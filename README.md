@@ -29,7 +29,7 @@ Our project "E-LOCKS: A Blockchain Based Voting System" includes features such a
   <li>Providing an interactive console for user input and data entry</li>
   <li>Implementing a blockchain mechanism for voting integrity</li>
 </ul>
-<img src="https://github.com/Minhal128/phoenix118/assets/154814405/682efaaa-9feb-4d03-87ec-00bfd473a16a" alt="PHOENIX Project Features">
+<img src="https://imgur.com/HLRAiHp.jpg" alt="E-LOCKS Features">
 
   
 <h2>🛠 Installation Steps:</h2>
